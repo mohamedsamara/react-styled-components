@@ -1,12 +1,12 @@
-import Layout from 'layouts/default';
-
-export const HOME_TEST_ID = 'home';
+import { Container, Box } from 'components/Base';
 
 const Home = () => {
   return (
-    <Layout>
-      <div />
-    </Layout>
+    <Box height="100%">
+      <Container>
+        <div />
+      </Container>
+    </Box>
   );
 };
 

@@ -440,6 +440,16 @@
     minimatch "^3.1.2"
     strip-json-comments "^3.1.1"
 
+"@fontsource/archivo@^4.5.8":
+  version "4.5.8"
+  resolved "https://registry.yarnpkg.com/@fontsource/archivo/-/archivo-4.5.8.tgz#6e3db07e581eb660555f1930c07f3b174d7657d8"
+  integrity sha512-FLRuy4ltb7bS8wE/8gyzWJ5FZ4aJpOUZ8Ox1JfTmowz2+dJ43mw5EJZ7D2xMzjMwAyO/+UvwKhtmiC1m6F8KDA==
+
+"@fontsource/poppins@^4.5.9":
+  version "4.5.9"
+  resolved "https://registry.yarnpkg.com/@fontsource/poppins/-/poppins-4.5.9.tgz#e5c192aef005177c87e23c1b783415d1e9b4b7a8"
+  integrity sha512-PMHOYeUpdmdN1xk13aGvhvZZrv9Zt3ubx2PmDvnROHgefm0ixpFd3ogAi0fY/aWtlkUdvgt0mSkGGbtt5i4MsQ==
+
 "@humanwhocodes/config-array@^0.10.4":
   version "0.10.4"
   resolved "https://registry.yarnpkg.com/@humanwhocodes/config-array/-/config-array-0.10.4.tgz#01e7366e57d2ad104feea63e72248f22015c520c"
