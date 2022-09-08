@@ -3,7 +3,7 @@ import NavLink from 'components/Base/NavLink';
 
 const Sidebar = () => {
   return (
-    <Flex>
+    <Flex flexDirection="column">
       <Link to="/test" fontSize={['16px']}>
         Test
       </Link>
