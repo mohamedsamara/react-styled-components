@@ -1,12 +1,13 @@
 import { Container, Box, Typography } from 'components/Base';
-import { TypographySection } from './components';
+import { TypographySection, LinksSection } from './components';
 
 const Home = () => {
   return (
-    <Box height="100%" py="60px">
+    <Box py="60px">
       <Container>
         <Typography mb="40px">Components</Typography>
         <TypographySection />
+        <LinksSection />
       </Container>
     </Box>
   );

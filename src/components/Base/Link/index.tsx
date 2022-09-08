@@ -52,6 +52,7 @@ export interface LinkProps
 const Wrapper = styled(LinkRouter)`
   color: ${theme.colors.boulder};
   text-decoration: none;
+  font-size: 16px;
 
   ${position}
   ${space}

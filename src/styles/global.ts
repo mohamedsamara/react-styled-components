@@ -29,6 +29,7 @@ const GlobalStyles = createGlobalStyle`
      width: 100%;
      line-height: 1.5;
      font-family: "Poppins";
+     overflow-y: scroll;
    }  
 
    main {
