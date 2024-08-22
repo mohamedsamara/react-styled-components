@@ -12,7 +12,10 @@
     "test": "jest",
     "cypress:open": "cypress open"
   },
-  "keywords": [],
+  "keywords": [
+    "styled-components",
+    "styled-system"
+  ],
   "author": "Mohamed Samara (https://github.com/mohamedsamara)",
   "license": "MIT",
   "repository": {
